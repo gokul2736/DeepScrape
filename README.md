@@ -1,4 +1,4 @@
-# DeepScrape-LMS/Portal hacks 
+# DeepScrape-Learner Portal
 
 
 ## Disable Copy/Paste function for Portal Discussions
